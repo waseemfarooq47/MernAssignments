@@ -1,0 +1,84 @@
+//// question1 ///
+What is URL?
+A URL (Uniform Resource Locator) is a unique identifier used to locate a resource on the Internet. It is also referred to as a web address. URLs consist of multiple parts -- including a protocol and domain name -- that tell a web browser how and where to retrieve a resource.
+
+End users use URLs by typing them directly into the address bar of a browser or by clicking a hyperlink found on a webpage, bookmark list, in an email or from another application.
+The URL contains the name of the protocol needed to access a resource, as well as a resource name. The first part of a URL identifies what protocol to use as the primary access medium. The second part identifies the IP address or domain name -- and possibly subdomain -- where the resource is located.
+
+URL protocols include HTTP (Hypertext Transfer Protocol) and HTTPS (HTTP Secure) for web resources, mail to for email addresses, FTP for files on a File Transfer Protocol (FTP) server, and telnet for a session to access remote computers. Most URL protocols are followed by a colon and two forward slashes; "mail to" is followed only by a colon.
+
+Optionally, after the domain, a URL can also specify:
+
+a path to a specific page or file within a domain;
+a network port to use to make the connection;
+a specific reference point within a file, such as a named anchor in an HTML file; and
+a query or search parameters used -- commonly found in URLs for search results.
+
+//// question2 ///
+Difference b/w HTTP and HTTPS.
+
+HTTP:
+
+1.  HTTP stands for HyperText Transfer Protocol.
+2.  In HTTP, URL begins with “http://”.
+3.  HTTP uses port number 80 for communication.
+4.  HTTP is considered to be unsecure.
+5.  HTTP works at Application Layer.
+6.  In HTTP, Encryption is absent.
+7.  HTTP faster than HTTPS
+8.  HTTP does not use data hashtags to secure data.
+9.  HTTP Does not require SSL/TLS or Certificates
+10. In HTTP Users ar worried about their data.
+
+HTTPS:
+
+1. HTTPS for HyperText Transfer Protocol Secure.
+2. In HTTPs, URL starts with “https://”.
+3. HTTPs uses 443 port number for communication.
+4. HTTPs is considered as secure.
+5. HTTPS works at Transport Layer.
+6. Encryption is present in HTTPS.
+7. HTTPS needs SSL Certificates.
+8. HTTPS Requires SSL/TLS implementation with Certificates.
+9. In HTTPS Users are confident about the security of their data.
+
+//question 3//
+What is DOM?
+
+The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.
+
+A web page is a document that can be either displayed in the browser window or as the HTML source. In both cases, it is the same document but the Document Object Model (DOM) representation allows it to be manipulated. As an object-oriented representation of the web page, it can be modified with a scripting language such as JavaScript.
+All of the properties, methods, and events available for manipulating and creating web pages are organized into objects. For example, the document object that represents the document itself, any table objects that implement the HTMLTableElement DOM interface for accessing HTML tables, and so forth, are all objects.
+
+The DOM is built using multiple APIs that work together. The core DOM defines the entities describing any document and the objects within it. This is expanded upon as needed by other APIs that add new features and capabilities to the DOM. For example, the HTML DOM API adds support for representing HTML documents to the core DOM, and the SVG API adds support for representing SVG documents.
+
+//question 4//
+
+What are Meta Tags?
+The <meta> tag defines metadata about an HTML document. Metadata is data (information) about data.
+
+<meta> tags always go inside the <head> element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
+
+Metadata will not be displayed on the page, but is machine parsable.
+
+Metadata is used by browsers (how to display content or reload page), search engines (keywords), and other web services.
+
+There is a method to let web designers take control over the viewport (the user's visible area of a web page), through the <meta> tag (See "Setting The Viewport" example below).
+
+//question 5//
+What is W3C?
+
+The World Wide Web Consortium (W3C) is the main international standards organization for the World Wide Web. Founded in 1994 and led by Tim Berners-Lee, the consortium is made up of member organizations that maintain full-time staff working together in the development of standards for the World Wide Web. As of 5 March 2023, W3C had 462 members.W3C also engages in education and outreach, develops software and serves as an open forum for discussion about the Web.
+
+//Question 6//
+
+Different Doctypes Of Different Versions Of HTML
+
+The HTML5 doctype.
+The HTML 4.01 strict doctype.
+The HTML 4.01 transitional doctype.
+The XML 1.0 strict and transitional doctypes.
+The HTML 4.01 and XML 1.0 frameset doctypes.
+Other doctypes.
+HTML versus XHTML syntax.
+Serving "real" XML.

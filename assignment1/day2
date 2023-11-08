@@ -1,0 +1,64 @@
+Differences between a wireframe vs. mockup?
+
+User interface (UI) and user experience (UX) designers use wireframes and mockups at different stages of the design process to know whether a product is appropriate for their clients or customers. To successfully implement these tools in a project, the following are the differences between a wireframe vs. mockup:
+
+What is a wireframe?
+A wireframe is a clear way to represent the concept of an initial digital product visually. It contains the important UI elements that you may feature on a website or application. Wireframes are also the skeleton or blueprint of your design. A wireframe helps you describe the page layout, structure, content, and function of an application to your design team. Most UX designers use it to outline the arrangement of elements on a new app or website interface.
+
+They don't share it with other departments because its low fidelity makes it difficult to get relevant feedback. The wireframe usually displays the layout of the copy, visuals, and buttons of an app without presenting the main design ideas. It serves as a medium that helps designers to understand their projects effectively.
+
+Related: How Much Do UX Designers Make? (With Duties and Skills)
+
+What is a mockup?
+A mockup is a high-fidelity static design diagram of a finished product. It's the final app or web design of how a screen or page may look to the customer. Mockups include a more visual UI and stylistic detail of the new product's functionality. When understanding the difference between a wireframe vs. mockup, it's important to remember that a mockup is a more visual version of the wireframe. It includes visual details such as navigation graphics, colours, typography, component spacing, and styled buttons, but mockups are neither clickable nor interactive.
+
+
+
+what is markup?
+A markup language is a set of rules that defines how the layout and presentation of text and images should appear in a digital document.
+
+////////////////
+
+some of the best website designs in 2023.
+
+1. Frans Hals Museum.
+2. Crypton.trading.
+3. NOWNESS.
+4. Simply Chocolate.
+5. Zillow.
+6. Rainforest Guardians.
+
+///////////////
+
+Programming Language:
+A programming language is a type of computer language that consists of a set of instructions for communicating with computers.
+Most programming languages are compiled. The translation overhead is incurred just once when the source is compiled; after that, it merely needs to be loaded and run.
+Traditional programming languages are based on low-level languages.
+Execution of a program takes more time since they are compiled.
+Programming languages have high maintenance costs.
+Programming languages are designed to make full-fledged software development easier.
+All programming languages are not scripting languages.
+Examples include C, C++, Java, Python, etc.
+
+
+Scripting Language:
+A scripting language is a kind of programming language that is used to automate the execution of operations in a runtime environment.
+Most scripting languages are interpreted languages. They must be parsed, interpreted, and executed each time the program is run.
+Scripting languages generally prefer high-level languages.
+Execution of a script takes less time as scripts are generally short.
+Scripting languages typically have a low maintenance cost.
+Scripting languages are used to assist programming languages and make coding easier and faster. They are typically used for open projects and web development.
+All scripting languages are programming languages.
+Examples include Perl, PHP, JavaScript, etc.
+
+
+//////////////
+
+what is ECMA?
+Ecma International (formally European Computer Manufacturers Association) is a non-profit organization that develops standards in computer hardware, communications, and programming languages.ECMA was originally founded in 1961, and its headquarters are in Geneva, Switzerland. It is a standards body for programming languages. Its most well-known standard is ECMAScript, which is the standard for JavaScript.
+
+ECMAScript is a scripting-language specification that was developed by ECMA International in order to create a standardized JavaScript implementation across all web browsers.
+
+It is widely used for client-side scripting in web browsers, and it is also used for server-side scripting with node.js. ECMAScript is the successor to JavaScript, and it is backward-compatible with most JavaScript code.
+
+ECMAScript 6 is the latest version of the specification which was released in 2015 that is widely adopted by all modern web browsers.

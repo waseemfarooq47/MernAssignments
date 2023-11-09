@@ -1,0 +1,23 @@
+
+What is rendering engine?
+The rendering engine is responsible for processing the structural and presentational aspects of web documents, determining how elements are displayed on the screen and how user interactions are handled. It acts as the bridge between the browser and the web content, facilitating the conversion of markup languages into a visual representation that we can perceive and interact with.
+
+
+
+Some popular rendering engines include:
+
+WebKit: Developed by Apple, WebKit powers browsers such as Safari and was originally derived from the KHTML engine.
+Blink: Developed by Google, Blink is a fork of WebKit and serves as the rendering engine for Google Chrome and Microsoft Edge.
+Gecko: Developed by Mozilla, Gecko powers the Firefox browser and focuses on standards compliance, performance, and extensibility.
+Trident: Historically used in Internet Explorer, Trident has been replaced by Microsoft Edge’s adoption of the Blink engine.
+EdgeHTML: Microsoft’s proprietary rendering engine used in legacy versions of Microsoft Edge before transitioning to Blink.
+
+
+
+
+JavaScript rendering engines used in web browsers:
+Browser	Name                            Javascript Engine used
+1. Google Chrome	                    V8
+2. Edge (Internet Explorer)	            Chakra
+3. Mozilla Firefox	                    Spider Monkey
+4. Safari 	                            Javascript Core Webkit

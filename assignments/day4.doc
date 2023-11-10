@@ -1,0 +1,27 @@
+Q1>>>> ASCII Character Set vs UTF 8 Charter Set vs UTF 16 Character Set.
+
+ASCII is a character encoding system that only includes up to 256 characters, primarily composed of English letters, numbers, and symbols. It uses up to eight bits to represent each character. In contrast, Unicode is a much larger encoding standard that includes over 149,000 characters.
+
+UTF-8 replaced the ASCII character-encoding standard because it can store a character in more than a single byte. This allowed us to represent a lot more character types, like emoji.UTF-8 extends the ASCII character set to use 8-bit code points, which allows for up to 256 different characters. This means that UTF-8 can represent all of the printable ASCII characters, as well as the non-printable characters.
+The main difference between UTF-8, UTF-16 character encoding is how many bytes it requires to represent a character in memory. UTF-8 uses a minimum of one byte, while UTF-16 uses a minimum of 2 bytes. BTW, if the character's code point is greater than 127, the maximum value of byte then UTF-8 may take 2, 3 o 4 bytes but UTF-16 will only take either two or four bytes. 
+
+
+
+
+
+Q2>>>> What is Search Engine Optimisation (SEO)?
+
+Search engine optimization (SEO) is the practice of creating and optimizing relevant, authoritative content in a way that helps visitors (and search engine crawlers) find answers to their key questions. The goal of performing SEO on any given website is to increase the volume of quality, relevant, authoritative content. The goal of performing SEO on any given webpage is to improve the quality of your content, so search engines will choose to list your content within search results. By improving and expanding your website's content, you will increase the quantity of traffic that your web content receives from search engines each day.
+
+The three pillars of SEO
+As a digital marketer, knowing how to get your brand, website, or company found by searchers is a core skill, and understanding how SEO is evolving will keep you at the top of your game. While SEO changes frequently in small ways, its key principles do not. We can break SEO into three core components or pillars that you need to be familiar with – and action regularly:
+
+
+1. Technical Optimization: Technical Optimization is the process of completing activities on your site that are designed to improve SEO but are not related to    content. It often happens behind the scenes.
+
+2. On-Page Optimization: On-Page Optimization is the process of ensuring the content on your site is relevant and provides a great user experience. It includes targeting the right keywords within your content and can be done through a content management system. Common examples of content management systems include WordPress, Wix, Drupal, Joomla, Magento, Shopify, and Expression Engine.
+
+3. Off-Page Optimization: Off-Page Optimization is the process of enhancing your site’s search engine rankings through activities outside of the site. This is largely driven by backlinks, which help to build the site’s reputation.
+
+
+

@@ -1,0 +1,87 @@
+Q1: What softwares ux designer use for mockup?
+
+Ans: Mockups are typically created using mockup UI tools such as Adobe XD, Photoshop, Sketch, Illustrator, or Figma. They are usually used during development to help designers and developers visualize the product's appearance before it is built out.
+Top Website Mockup Tools in 2023
+1. Adobe XD	
+2. Axure RP
+3. Mockitt	
+4. Balsamiq
+5. Frame Box	
+6. MockPlus
+7. Justinmind	
+8. Framer
+9. Proto.io	
+10. UXPin
+
+
+Q2. What softwares ux designer use for prototyping?
+
+Ans: Best UX Prototyping Tools For Designers
+1.Figma. Platform: Web, MacOS, Windows. 
+2. JustinMind. Platform: MacOS, Windows. 
+3. MockFlow. Platform: Web, MacOS, Windows. 
+4. ProtoPie. Platform: MacOS, Windows. 
+5. Balsamiq Cloud. Platform: Web (Desktop apps for MacOS and Windows are available separately) ...
+6. Origami Studio. Platform: MacOS. 
+7. UXPin.
+8. Axure.
+
+
+Q3. what is vector and raster graphics and also usage in html?
+Ans. Vector graphics are digital art that is rendered by a computer using a mathematical formula. Raster images are made up of tiny pixels, making them resolution dependent and best used for creating photos. 
+
+         Raster	 Graphics                                                           Vector Graphics
+1.	Raster images are constructed through pixels.	                    ||   Vector images are constructed through lines, curves, and fills.
+2.	Raster prefers graphic formats like GIF, JPEG,PNG and PCX, etc.	  ||   Vector uses graphic formats like EPS, WMF, TrueType, PICT etc.
+3.	Raster are not that scalable.	                                    ||   Vectors are scalable to any size.
+5.	They work best when it comes to editing photos.	                  ||   They work best when it comes to drawings, illustrations, and logos.
+6.	We can use rasters in GIMP, Photoshop, and paint shops.	          ||   We can use vectors in CorelDraw, Illustrator and Inkscape.
+7.	It is complex and time consuming to transform a raster file to a  ||   We can easily convert a vector image into a raster image.
+vector photograph.	
+8.	When the spot colours are limited, it becomes challenging to      ||   It is easy to print vector images as the number of colours can be modified anytime print raster images.                                                      	 during printing.      
+9.	We can easily convert a raster file into any file format.	        ||   We cannot change the vector files.
+
+Usage in HTML: It is Commonly used in <img> tag.
+raster images : They are Composed of pixels, resolution-dependent, and can lose quality when resized.
+some formats are as : JPEG, PNG, GIF.
+Example HTML: <img src="example.jpg" alt="Example Image">
+
+Vector Images used in HTML: Often used through the <svg> (Scalable Vector Graphics) tag for inline vector graphics.
+They are Composed of paths defined by mathematical equations, resolution-independent, and can be scaled without loss of quality.
+Common Format: SVG.
+Example HTML: <svg width="100" height="100"><circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" /></svg>
+
+
+Q4.  what is WHATWG?
+Ans. The Web Hypertext Application Technology Working Group (WHATWG) is a community of people interested in evolving HTML and related technologies.A programming interface (API) from the Web Hypertext Application Technology Working Group (WHATWG) that enables Web-based programs to launch scripts that run in the background while the user interacts with the software on screen. 
+
+Q5. SVG vs VML?
+
+SVG (Scalable Vector Graphics):
+Used to describe 2D vector graphics and animations
+Has specific graphic elements and attributes for creating graphics
+Can be embedded within HTML or standalone
+Can be resized without losing image quality.
+
+Vector Markup Language (VML):
+It is an obsolete XML-based file format for two-dimensional vector graphics.
+A group element is used to group together several shapes so that they may be transformed together as one unit.
+VML is formatted according to the rules of XML.
+Any standard XML parser can parse the VML and hand off the resultant data to a VML specific processor.
+
+Q6. What is Web crawlers?
+
+Ans. A web crawler is an automated program that indexes websites for search engines. The crawler, or spider, finds websites and scans their content for keywords and pieces of descriptive data called meta tags attached to webpages that determine the website's purpose. When you use a search engine, you type in a keyword and the engine scans the index that their spiders created for websites that feature the keyword. The engine then returns a list of indexed webpages in order of relevance, based on their copy and meta tags. A web crawler or web spider, is a computer program that's used to search and automatically index website content and other information over the internet. These programs, or bots, are most commonly used to create entries for a search engine index.
+
+Crawlers often re-crawl through indexed sites, so if any of those sites link to yours, the crawler follows the link and indexes your site as well. The more links to your website there are, the higher priority your website is to the crawler.
+
+Q7. Why is web crawling important for SEO (Search Engine Optimization)?
+
+SEO stands for search engine optimization, and it is the discipline of readying content for search indexing so that a website shows up higher in search engine results. If spider bots don't crawl a website, then it can't be indexed, and it won't show up in search results.
+
+Crawlability allows search engines to crawl pages to read and analyze their content so it can be added to the search index. A page cannot be properly indexed without crawling.
+
+If a website or page cannot be crawled or specifies that it does not want to be crawled or indexed, then it won't show up in search results, meaning potential visitors won't find it.
+
+Crawlers use algorithms to establish the frequency with which they scan a specific page and how many pages of the website it must scan.
+These algorithms help crawlers to tell a frequently updated page from one that doesn’t change over time: the crawler would scan the first one more regularly. A key concept, from this point of view, is the crawl budget.

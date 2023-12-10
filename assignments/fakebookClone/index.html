@@ -3,6 +3,13 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+      integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
     <link rel="stylesheet" href="Style/style.css" />
     <title>Fakebook | Clone</title>
   </head>
@@ -19,11 +26,48 @@
           </div>
 
           <div class="small-cards">
-            <div class="card"></div>
-            <div class="card"></div>
+            <div class="card">
+              <div class="card-image">
+                <img src="./images/img.png" alt="user-icon" />
+              </div>
+              <div class="card-footer">Hayat</div>
+            </div>
+            <div class="card">
+              <div class="card-image">
+                <i class="fa-solid fa-circle-plus"></i>
+              </div>
+              <div class="card-footer"><a href="#">Add account</a></div>
+            </div>
           </div>
         </div>
-        <div class="right-section"></div>
+        <div class="right-section">
+          <div class="form-cover">
+            <form action="#" method="get">
+              <input
+                type="text"
+                name=""
+                id=""
+                class="input"
+                placeholder="Email address or phone number"
+              />
+              <input
+                type="password"
+                name=""
+                id=""
+                class="input"
+                placeholder="Password"
+              />
+              <input type="submit" value="Log in" class="login" />
+              <a href="#" class="forgot-password">Forgotten Password ?</a>
+            </form>
+
+            <hr />
+
+            <div class="create-account">
+              <button><a href="#">Create new account</a></button>
+            </div>
+          </div>
+        </div>
       </main>
     </div>
     <footer></footer>
